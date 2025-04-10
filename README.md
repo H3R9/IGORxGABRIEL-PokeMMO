@@ -15,7 +15,7 @@
 
 1.  [🚀 Visão Geral do Esquadrão Ideal](#-visão-geral-do-esquadrão-ideal)
 2.  [💡 A Estratégia Vencedora](#-a-estratégia-vencedora)
-3.  [ B]Os Monstros da Equipe (Guia de Captura DETALHADO)](#-os-monstros-da-equipe-com-guia-de-captura-detalhado)
+3.  [<0xF0><0x9F><0xA6><0xB2> Os Monstros da Equipe (Guia de Captura DETALHADO)](#os-monstros-da-equipe-com-guia-de-captura-detalhado) {/* CORRIGIDO */}
     *   [💧 Samurott](#1-samurott--água)
     *   [🏜️🌑 Krookodile](#2-krookodile--terra--sombrio)
     *   [🔥 Darmanitan](#3-darmanitan--fogo)
@@ -312,5 +312,5 @@ Você terá cobertura de tipos sólida, capacidade de lidar com ameaças variada
 ---
 
 <p align="center">
-  <strong>Pronto, Treinador! 🚀 Com este guia refinado, você tem todas as ferramentas para construir uma equipe lendária no PokeMMO. Vá em frente, capture esses monstros e mostre quem manda! Boa jornada e divirta-se!</strong> 💪
+  <strong>Pronto, Treinador! 🚀 Com este guia refinado e corrigido, você tem todas as ferramentas para construir uma equipe lendária no PokeMMO. Vá em frente, capture esses monstros e mostre quem manda! Boa jornada e divirta-se!</strong> 💪
 </p>
