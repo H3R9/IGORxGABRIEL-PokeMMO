@@ -207,3 +207,5 @@
 *Lembre-se que o PokeMMO pode ter pequenas diferenças em relação aos jogos originais, mas este guia foi revisado para refletir os locais e informações mais comuns e precisas para a campanha de Unova.*
 
 **Boa sorte na sua jornada por Unova!**
+
+**FEITO POR IA's, com mais de 10 revisões, ainda contém pequenos erros.**
