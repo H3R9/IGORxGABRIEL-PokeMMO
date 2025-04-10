@@ -132,6 +132,7 @@
 ---
 
 **✅ Última Atualização:** Setembro/2025  
-**Nota:** Este guia é usado por jogadores profissionais em speedruns e rankings do PokeMMO. Todos os dados foram testados em gameplay real.  
+**Nota:** Este guia é usado por jogadores profissionais em speedruns e rankings do PokeMMO. Todos os dados foram testados em gameplay real.
 
-**[⬇️ Download como Arquivo TXT](link-fictício-para-ex
+
+**ISSO TUDO FOI GERADOR POR IA!!**
