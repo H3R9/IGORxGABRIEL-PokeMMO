@@ -6,27 +6,12 @@
 <h2 align="center">Unova Start (Oshawott) | Domine Todas as Regiões (PvE) + Base Forte pro PvP! ⚔️</h2>
 
 <p align="center">
-  <em>E aí, treinador! 👊 Cansado de montar times que empacam? Se você começou sua jornada em <strong>Unova</strong> com o carismático <strong>Oshawott</strong> e sonha com uma equipe <strong>IMPLACÁVEL</strong> para zerar o PvE de todas as regiões e já ter um alicerce sólido pro PvP, você achou o mapa da mina! 🗺️ Sem enrolação, direto ao ponto, com os nomes PT-BR que usamos no game!</em>
+  <em>E aí, treinador! 👊 Cansado de montar times que empacam? Se você começou sua jornada em <strong>Unova</strong> com o carismático <strong>Oshawott</strong> e sonha com uma equipe <strong>IMPLACÁVEL</strong> para zerar o PvE de todas as regiões e já ter um alicerce sólido pro PvP, você achou o mapa da mina! 🗺️ Sem enrolação, direto ao ponto!</em>
 </p>
 
 ---
 
-## 📑 Sumário Rápido
-
-1.  [🚀 Visão Geral do Esquadrão Ideal](#-visão-geral-do-esquadrão-ideal)
-2.  [💡 A Estratégia Vencedora](#-a-estratégia-vencedora)
-3.  [<0xF0><0x9F><0xA6><0xB2> Os Monstros da Equipe (Guia de Captura DETALHADO)](#os-monstros-da-equipe-com-guia-de-captura-detalhado)
-    *   [💧 Samurott](#1-samurott--água)
-    *   [🏜️🌑 Krookodile](#2-krookodile--terra--sombrio)
-    *   [🔥 Darmanitan](#3-darmanitan--fogo)
-    *   [🌿⚙️ Ferrothorn](#4-ferrothorn--planta--aço)
-    *   [🕷️⚡ Galvantula](#5-galvantula--inseto--elétrico)
-    *   [🐉 Haxorus](#6-haxorus--dragão)
-4.  [🗺️ Roteiro de Montagem (Passo a Passo em Unova)](#️-roteiro-de-montagem-passo-a-passo-em-unova)
-5.  [💰 Farm de Pokéyen Eficaz em Unova](#-farm-de-pokéyen-eficaz-em-unova)
-6.  [🧭 Dominando os HMs (Quem Aprende o Quê)](#-dominando-os-hms-quem-aprende-o-quê)
-7.  [✨ Otimização Nível Pro (Foco PvP & Refinamento)](#-otimização-nível-pro-foco-pvp--refinamento)
-8.  [🌍 Viabilidade Multi-Região (Roda em Todo Lugar?)](#-viabilidade-multi-região-roda-em-todo-lugar)
+## 📑 Sumário
 
 ---
 
@@ -311,6 +296,3 @@ Você terá cobertura de tipos sólida, capacidade de lidar com ameaças variada
 
 ---
 
-<p align="center">
-  <strong>Pronto, Treinador! 🚀 Com este guia agora revisado e correto, você tem todas as ferramentas para construir uma equipe lendária no PokeMMO. Vá em frente, capture esses monstros e mostre quem manda! Boa jornada e divirta-se!</strong> 💪
-</p>
