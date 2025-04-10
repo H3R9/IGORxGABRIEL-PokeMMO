@@ -2,224 +2,273 @@
   <img src="https://raw.githubusercontent.com/PokeMMO/Client/main/data/themes/default/images/logo.png" alt="PokeMMO Logo" width="200"/>
 </p>
 
-<h1 align="center">⭐ Guia Definitivo: O Melhor Time PvE para PokeMMO ⭐</h1>
-<h2 align="center">🌍 Unova Start (Oshawott) - Rumo a Todas as Regiões! 🌍</h2>
+<h1 align="center">🏆 Guia PokeMMO: O Time Supremo (Unova Start - Oshawott) 🏆</h1>
+<h2 align="center">🌍 Domínio PvE & Fundação PvP Robusta ⚔️</h2>
 
 <p align="center">
-  <em>Um guia completo e organizado para montar o time ideal no PokeMMO, começando em Unova com Oshawott, focado exclusivamente em dominar a campanha (PvE) de todas as regiões.</em>
+  <em>Este guia apresenta um time otimizado para jogadores de PokeMMO que iniciam em Unova com Oshawott. O foco é construir uma equipe poderosa para zerar todas as regiões (PvE) e, simultaneamente, estabelecer uma base sólida e versátil para outras atividades, incluindo o cenário competitivo (PvP).</em>
 </p>
 
 ---
 
-## 📝 Índice Rápido
+## 📑 Índice
 
-1.  [Visão Geral do Time](#-visão-geral-do-time-ideal)
-2.  [Por Que Este Time?](#-por-que-este-time)
-3.  [Membros do Time: Análise Detalhada](#-membros-do-time-análise-detalhada)
+1.  [Visão Geral do Time](#-visão-geral-do-time-supremo)
+2.  [Filosofia do Time: Por Que Esta Escolha?](#-filosofia-do-time-por-que-esta-escolha)
+3.  [Análise Detalhada dos Membros (Com Guia de Captura)](#-análise-detalhada-dos-membros-com-guia-de-captura-aprimorado)
     *   [Samurott](#1-samurott--água-)
     *   [Krookodile](#2-krookodile--terra--sombrio-)
     *   [Darmanitan](#3-darmanitan--fogo-)
-    *   [Sigilyph](#4-sigilyph--psíquico--voador-)
+    *   [Ferrothorn](#4-ferrothorn--planta--aço-)
     *   [Galvantula](#5-galvantula--inseto--elétrico-)
     *   [Haxorus](#6-haxorus--dragão-)
-4.  [Roteiro de Captura em Unova](#️-roteiro-de-captura-em-unova)
-5.  [Estratégia de HMs](#-estratégia-de-hms)
-6.  [Dicas Adicionais Essenciais](#-dicas-adicionais-essenciais)
-7.  [Próximos Passos: Outras Regiões](#-próximos-passos-outras-regiões)
+4.  [Roteiro de Montagem em Unova](#️-roteiro-de-montagem-em-unova)
+5.  [💰 Método de Farm Eficaz em Unova](#-método-de-farm-eficaz-em-unova-durante-a-campanha)
+6.  [Gerenciamento de HMs](#-gerenciamento-de-hms)
+7.  [Considerações Cruciais (PvP & Otimização)](#-considerações-cruciais-pvp--otimização)
+8.  [Viabilidade Multi-Região](#-viabilidade-multi-região)
 
 ---
 
-## 🚀 Visão Geral do Time Ideal
+## 🚀 Visão Geral do Time Supremo
 
-Esta formação oferece um equilíbrio perfeito entre poder ofensivo, cobertura de tipos e habilidades estratégicas cruciais para uma jornada tranquila e eficiente no PvE do PokeMMO.
+Esta formação equilibra poder ofensivo avassalador com resiliência defensiva e utilidade estratégica, criando uma equipe formidável para todos os aspectos do jogo.
 
-| Slot | Pokémon                                   | Tipo(s)             | Função Principal         | Habilidade Chave (PvE)   |
-| :--: | :---------------------------------------- | :------------------ | :----------------------- | :----------------------- |
-|  1   | **Samurott**                              | 💧 Água             | Atacante Misto / Surf    | `Torrent`                |
-|  2   | **Krookodile** <img width=15/>            | 🏜️ Terra / 🌑 Sombrio | Sweeper Físico (Snowball)| `Moxie` ✨               |
-|  3   | **Darmanitan** <img width=15/>            | 🔥 Fogo             | Wallbreaker Físico       | `Sheer Force` ✨         |
-|  4   | **Sigilyph** <img width=15/>              | 👁️ Psíquico / 🕊️ Voador| Atacante Especial / Fly  | `Magic Guard` ✨         |
-|  5   | **Galvantula** <img width=15/>            | 🕷️ Inseto / ⚡ Elétrico| Atacante Especial Rápido | `Compound Eyes` ✨       |
-|  6   | **Haxorus** <img width=15/>               | 🐉 Dragão           | Sweeper Físico (Setup)   | `Mold Breaker` ✨        |
+| Slot | Pokémon                                   | Tipo(s)             | Função Principal (PvE/PvP Base)    | Habilidade Chave Recomendada |
+| :--: | :---------------------------------------- | :------------------ | :--------------------------------- | :--------------------------- |
+|  1   | **Samurott**                              | 💧 Água             | Atacante Misto / HM User           | `Torrent`                    |
+|  2   | **Krookodile** <img width=15/>            | 🏜️ Terra / 🌑 Sombrio | Sweeper Físico / Pivot             | `Moxie` (PvE) / `Intimidate` (PvP) ✨ |
+|  3   | **Darmanitan** <img width=15/>            | 🔥 Fogo             | Wallbreaker Físico Extremo         | `Sheer Force` ✨             |
+|  4   | **Ferrothorn** <img width=15/>            | 🌿 Planta / ⚙️ Aço  | Pilar Defensivo / Hazard Setter    | `Iron Barbs` ✨              |
+|  5   | **Galvantula** <img width=15/>            | 🕷️ Inseto / ⚡ Elétrico| Atacante Especial Rápido / Web Setter| `Compound Eyes` (PvE/Atk) / `Unnerve` (PvP Lead) ✨ |
+|  6   | **Haxorus** <img width=15/>               | 🐉 Dragão           | Setup Sweeper Físico             | `Mold Breaker` ✨            |
 
-*✨ Habilidade Altamente Recomendada para buscar durante a captura!*
-
----
-
-## ✨ Por Que Este Time?
-
-*   ✅ **Poder Ofensivo Excepcional:** Combinação equilibrada de atacantes físicos e especiais de alto calibre.
-*   ✅ **Cobertura de Tipos Ampla:** Respostas eficazes para a vasta maioria dos desafios em todas as regiões.
-*   ✅ **Habilidades Estratégicas:** `Moxie`, `Sheer Force`, `Magic Guard`, `Compound Eyes` e `Mold Breaker` simplificam drasticamente as batalhas PvE.
-*   ✅ **Progressão Inteligente:** Todos os membros são capturáveis durante a campanha de Unova.
-*   ✅ **Eficiência de HMs:** Cobre os HMs essenciais sem necessidade de um "HM Slave" dedicado.
-*   ✅ **Viabilidade Multi-Região:** Permanece extremamente forte ao transitar para Kanto, Hoenn e Sinnoh.
+*✨ Habilidade com forte impacto, considere buscar ativamente ou escolher baseando-se no foco (PvE vs PvP).*
 
 ---
 
-## 🔎 Membros do Time: Análise Detalhada
+## 💡 Filosofia do Time: Por Que Esta Escolha?
+
+Este time foi projetado para ir além da simples conclusão da história:
+
+*   ✅ **Potência e Defesa Balanceadas:** Mantém a força ofensiva de Krookodile, Darmanitan e Haxorus, mas adiciona a muralha defensiva de **Ferrothorn**, crucial para lidar com ameaças persistentes em PvE avançado e essencial em PvP.
+*   ✅ **Fundação PvP Sólida:** Inclui membros que são *staples* (frequentes e eficazes) no metagame PvP (Krookodile, Darmanitan, Ferrothorn, Haxorus, Galvantula em nichos específicos).
+*   ✅ **Utilidade Estratégica:** Ferrothorn adiciona a capacidade de colocar `Stealth Rock` e `Spikes`. Galvantula pode usar `Sticky Web`. Krookodile com `Intimidate` oferece pivoting defensivo.
+*   ✅ **Sinergia Defensiva/Ofensiva:** Ferrothorn cobre fraquezas importantes do time (ex: Água, Pedra), enquanto suas fraquezas (Fogo, Lutador) são cobertas por outros membros.
+*   ✅ **Flexibilidade:** Permite adaptações. Krookodile pode focar em `Moxie` para PvE ou `Intimidate` para PvP. Galvantula pode ser ofensivo ou suporte.
+
+**A Troca Chave:** Sai Sigilyph (rápido, mas frágil), entra **Ferrothorn** (lento, mas absurdamente resistente e útil). Isso sacrifica `Fly` STAB pela imensa vantagem defensiva e estratégica.
+
+---
+
+## 🔎 Análise Detalhada dos Membros (Com Guia de Captura Aprimorado)
+
+Aqui detalhamos cada membro, suas funções e, mais importante, **como e onde encontrá-los da maneira mais eficaz** em Unova, focando nas habilidades cruciais.
+
+---
 
 ### 1. Samurott | 💧 Água <img width=15/>
 
-*   **Tipo:** Água
-*   **Função:** Seu inicial versátil, capaz de atacar física ou especialmente. Essencial para `Surf` e `Waterfall` com STAB.
-*   **Habilidade Ideal (PvE):** `Torrent` (Padrão). Útil para um impulso final de dano aquático.
-*   **Aquisição:** Seu Pokémon inicial (Oshawott). Evolui de Dewott no Nível 36.
-*   **Natureza Sugerida (PvE):** `Mild`, `Rash` (Sp. Atk↑), `Adamant` (Atk↑). (Não se preocupe excessivamente para a campanha).
-*   **Moveset Sugerido (Storyline):**
-    1.  `Surf` (HM - Essencial)
-    2.  `Waterfall` (HM - Pós-E4 Unova)
-    3.  `Ice Beam` (TM - Lacunosa Town / Giant Chasm - Cobertura vital)
-    4.  `Megahorn` / `X-Scissor` (Move Relearner / TM - Cobertura)
-*   **EVs (Opcional):** `Sp. Atk` & `Speed` ou `Atk` & `Speed`.
+*   **Função:** Inicial versátil, essencial para `Surf`/`Waterfall`.
+*   **Habilidade Ideal:** `Torrent` (Padrão).
+*   **Como Conseguir:**
+    1.  **Seleção Inicial:** Escolha **Oshawott** como seu Pokémon inicial ao começar sua jornada em Nuvema Town.
+    2.  **Evolução:** Treine Oshawott até o Nível 17 para evoluir para Dewott, e então até o Nível 36 para evoluir para Samurott.
+*   **Natureza Sugerida:** `Mild/Rash` (Misto), `Adamant/Jolly` (Físico), `Modest/Timid` (Especial).
+*   **Moveset Sugerido (Geral):** `Surf`, `Ice Beam`, `Grass Knot`, `Waterfall`/`Hydro Pump`/`Aqua Jet`/`Megahorn`.
+*   **EVs:** `Sp. Atk`/`Speed` ou `Atk`/`Speed`.
 
 ---
 
 ### 2. Krookodile | 🏜️ Terra / 🌑 Sombrio <img width=15/>
 
-*   **Tipo:** Terra / Sombrio
-*   **Função:** Sweeper físico dominante. `Moxie` o torna uma bola de neve imparável na campanha. Imune a Elétrico e Psíquico.
-*   **Habilidade Ideal (PvE):** ✨ **`Moxie`** ✨ (Prioridade máxima ao capturar!). Aumenta o Ataque a cada nocaute.
-*   **Estratégia de Aquisição:**
-    1.  **Local:** Rota 4, Desert Resort ou Relic Castle.
-    2.  **Pokémon:** Sandile.
-    3.  **Ação CRÍTICA:** Capture VÁRIOS Sandile e **verifique o Sumário de CADA UM** até encontrar um com a Habilidade `Moxie`. Seja paciente, vale muito a pena!
-    4.  **Evolução:** Krokorok (Nv. 29) -> Krookodile (Nv. 40).
-*   **Natureza Sugerida (PvE):** `Adamant` (Atk↑) ou `Jolly` (Speed↑).
-*   **Moveset Sugerido (Storyline):**
-    1.  `Earthquake` (TM - Relic Castle / Nv. 54)
-    2.  `Crunch` (Nv. 48)
-    3.  `Rock Slide` / `Stone Edge` (TMs - Cobertura)
-    4.  `Brick Break` (TM - Cobertura / Quebra barreiras)
-*   **EVs (Opcional):** `Atk` & `Speed`.
+*   **Função:** Sweeper físico (`Moxie` PvE) ou Pivot (`Intimidate` PvP). Imune a Elétrico/Psíquico.
+*   **Habilidade Ideal:** ✨ **`Moxie`** (Para snowball PvE) ou ✨ **`Intimidate`** (Para versatilidade PvP/Defesa). **Decida qual você prioriza!**
+*   **Como Conseguir:**
+    1.  **Pokémon Alvo:** Sandile.
+    2.  **Locais:**
+        *   **Rota 4:** Nas áreas de areia (mais comum).
+        *   **Desert Resort:** Nas áreas de areia.
+        *   **Relic Castle:** Andares inferiores (encontrado caminhando).
+    3.  **Ação CRÍTICA (A Caçada pela Habilidade):**
+        *   Vá para um dos locais acima.
+        *   Encontre e capture **vários** Sandile.
+        *   Para **cada** Sandile capturado, abra o Sumário dele e verifique a seção "Ability".
+        *   **Repita** o processo de captura e verificação até encontrar um Sandile com a Habilidade desejada (`Moxie` ou `Intimidate`). **Isso pode levar tempo, mas é crucial!**
+    4.  **Evolução:** Treine o Sandile com a Habilidade correta até o Nível 29 (Krokorok) e depois Nível 40 (Krookodile).
+*   **Natureza Sugerida:** `Adamant` (Atk↑) ou `Jolly` (Speed↑). `Jolly` é geralmente preferido em PvP.
+*   **Moveset Sugerido (Geral):** `Earthquake`, `Knock Off`, `Stone Edge`/`Rock Slide`, `Pursuit`/`Superpower`/`Stealth Rock`/`Crunch`.
+*   **EVs:** `Atk` & `Speed`.
 
 ---
 
 ### 3. Darmanitan | 🔥 Fogo <img width=15/>
 
-*   **Tipo:** Fogo
-*   **Função:** Poder de fogo físico bruto. `Sheer Force` amplifica o dano de muitos de seus melhores golpes.
-*   **Habilidade Ideal (PvE):** ✨ **`Sheer Force`** ✨ (Automático ao evoluir Darumaka!). Aumenta dano de golpes com efeito secundário, removendo o efeito.
-*   **Estratégia de Aquisição:**
-    1.  **Local:** Rota 4 ou Desert Resort.
-    2.  **Pokémon:** Darumaka (terá *Hustle*).
-    3.  **Evolução:** Darmanitan (Nv. 35) - A habilidade mudará automaticamente para `Sheer Force`.
-*   **Natureza Sugerida (PvE):** `Adamant` (Atk↑) ou `Jolly` (Speed↑).
-*   **Moveset Sugerido (Storyline):**
-    1.  `Flare Blitz` (Nv. 39 - Poderoso, STAB, boost de Sheer Force, cuidado com recoil)
-    2.  `Rock Slide` (TM - Cobertura essencial, boost de Sheer Force!)
-    3.  `Superpower` (Nv. 47 - Cobertura forte) ou `Brick Break` (TM - Consistente)
-    4.  `U-turn` (TM - Mobilidade estratégica)
-*   **EVs (Opcional):** `Atk` & `Speed`.
+*   **Função:** Poder de fogo físico extremo com `Sheer Force`.
+*   **Habilidade Ideal:** ✨ **`Sheer Force`** (Automático na evolução).
+*   **Como Conseguir:**
+    1.  **Pokémon Alvo:** Darumaka.
+    2.  **Locais:**
+        *   **Rota 4:** Caminhando na grama ou areia.
+        *   **Desert Resort:** Principalmente na área externa antes da entrada do Relic Castle.
+    3.  **Ação:** Capture **qualquer** Darumaka. Sua habilidade inicial (*Hustle*) não importa aqui.
+    4.  **Evolução:** Treine Darumaka até o Nível 35. Ao evoluir para Darmanitan, ele **automaticamente** ganhará a Habilidade `Sheer Force` (em seu Modo Padrão).
+*   **Natureza Sugerida:** `Adamant` (Atk↑) ou `Jolly` (Speed↑).
+*   **Moveset Sugerido (Geral):** `Flare Blitz`, `U-turn`, `Rock Slide`, `Superpower`/`Earthquake`.
+*   **EVs:** `Atk` & `Speed`.
 
 ---
 
-### 4. Sigilyph | 👁️ Psíquico / 🕊️ Voador <img width=15/>
+### 4. Ferrothorn | 🌿 Planta / ⚙️ Aço <img width=15/>
 
-*   **Tipo:** Psíquico / Voador
-*   **Função:** Atacante especial rápido e confiável. Usuário de `Fly` com STAB. `Magic Guard` o protege de danos irritantes (status, hazards, clima).
-*   **Habilidade Ideal (PvE):** ✨ **`Magic Guard`** ✨ (Prioridade ao capturar!). Imunidade a dano indireto.
-*   **Estratégia de Aquisição:**
-    1.  **Local:** Desert Resort.
-    2.  **Pokémon:** Sigilyph.
-    3.  **Ação CRÍTICA:** Verifique o Sumário de cada Sigilyph capturado para garantir a Habilidade `Magic Guard`.
-*   **Natureza Sugerida (PvE):** `Timid` (Speed↑) ou `Modest` (Sp. Atk↑). `Timid` é preferível.
-*   **Moveset Sugerido (Storyline):**
-    1.  `Fly` (HM - Essencial)
-    2.  `Psychic` / `Psyshock` (Nv. 41 / TM)
-    3.  `Air Slash` (Nv. 31 - STAB Voador especial)
-    4.  `Shadow Ball` / `Ice Beam` / `Energy Ball` (TMs - Flexibilidade de cobertura)
-*   **EVs (Opcional):** `Sp. Atk` & `Speed`.
+*   **Função:** Pilar defensivo, setter de hazards, suporte. Essencial PvP, ótimo PvE avançado.
+*   **Habilidade Ideal:** ✨ **`Iron Barbs`** (Padrão - Pune contato físico).
+*   **Como Conseguir:**
+    1.  **Pokémon Alvo:** Ferroseed.
+    2.  **Local:** **Chargestone Cave**. Encontrado caminhando normalmente dentro da caverna.
+    3.  **Ação:** Capture **qualquer** Ferroseed. Sua habilidade `Iron Barbs` é a padrão e única não-oculta.
+    4.  **Evolução:** Treine Ferroseed até o Nível 40 para evoluir para Ferrothorn.
+*   **Natureza Sugerida:** `Relaxed` (+Def, -Speed), `Sassy` (+Sp.Def, -Speed), `Impish` (+Def, -Sp.Atk), `Careful` (+Sp.Def, -Sp.Atk). Priorize defesas. Speed baixo é bom para `Gyro Ball`.
+*   **Moveset Sugerido (Geral):** `Stealth Rock`/`Spikes`, `Leech Seed`, `Power Whip`/`Gyro Ball`, `Protect`/`Thunder Wave`/`Knock Off`.
+*   **EVs:** `HP` & `Def` ou `Sp.Def`.
 
 ---
 
 ### 5. Galvantula | 🕷️ Inseto / ⚡ Elétrico <img width=15/>
 
-*   **Tipo:** Inseto / Elétrico
-*   **Função:** Atacante especial veloz com tipagem única. `Compound Eyes` torna `Thunder` uma arma extremamente confiável.
-*   **Habilidade Ideal (PvE):** ✨ **`Compound Eyes`** ✨ (Prioridade ao capturar!). Aumenta a precisão (Accuracy).
-*   **Estratégia de Aquisição:**
-    1.  **Local:** Chargestone Cave.
-    2.  **Pokémon:** Joltik.
-    3.  **Ação CRÍTICA:** Verifique o Sumário de cada Joltik até encontrar um com `Compound Eyes`.
-    4.  **Evolução:** Galvantula (Nv. 36).
-*   **Natureza Sugerida (PvE):** `Timid` (Speed↑) ou `Modest` (Sp. Atk↑). `Timid` é crucial.
-*   **Moveset Sugerido (Storyline):**
-    1.  `Thunder` (TM - Lacunosa Town / Nv. 62 - Poderoso e preciso com Compound Eyes!)
-    2.  `Bug Buzz` (Nv. 46 - STAB Inseto especial)
-    3.  `Volt Switch` (TM - Mobilidade)
-    4.  `Energy Ball` (TM - Cobertura Terra/Pedra/Água)
-*   **EVs (Opcional):** `Sp. Atk` & `Speed`.
+*   **Função:** Atacante especial rápido ou Lead de `Sticky Web`.
+*   **Habilidade Ideal:** ✨ **`Compound Eyes`** (Aumenta precisão, ótimo com `Thunder`) ou `Unnerve` (Nicho PvP). `Compound Eyes` é geralmente mais recomendado.
+*   **Como Conseguir:**
+    1.  **Pokémon Alvo:** Joltik.
+    2.  **Local:** **Chargestone Cave**. Encontrado caminhando (às vezes "cai do teto" para iniciar a batalha).
+    3.  **Ação CRÍTICA (A Caçada pela Habilidade):**
+        *   Encontre e capture **vários** Joltik.
+        *   Verifique o Sumário de **cada um** para a Habilidade.
+        *   **Repita** até encontrar um com `Compound Eyes`.
+    4.  **Evolução:** Treine o Joltik com `Compound Eyes` até o Nível 36 (Galvantula).
+*   **Natureza Sugerida:** `Timid` (Speed↑).
+*   **Moveset Sugerido (Geral):**
+    *   Ofensivo/PvE: `Thunder`, `Bug Buzz`, `Volt Switch`, `Energy Ball`/`Hidden Power Ice`.
+    *   Lead PvP: `Sticky Web`, `Thunder`/`Volt Switch`, `Bug Buzz`, `Energy Ball`/`HP Ice`.
+*   **EVs:** `Sp. Atk` & `Speed`.
 
 ---
 
 ### 6. Haxorus | 🐉 Dragão <img width=15/>
 
-*   **Tipo:** Dragão
-*   **Função:** Potência física suprema para o final do jogo. `Mold Breaker` ignora habilidades defensivas irritantes (Sturdy, Levitate, etc.). Pode varrer times após um setup.
-*   **Habilidade Ideal (PvE):** ✨ **`Mold Breaker`** ✨ (Prioridade ao capturar!). Ignora certas habilidades defensivas.
-*   **Estratégia de Aquisição:**
-    1.  **Pré-requisito:** Obter HM `Surf`.
-    2.  **Local:** Mistralton Cave (requer Surf para acesso completo).
-    3.  **Pokémon:** Axew.
-    4.  **Ação CRÍTICA:** Verifique o Sumário de cada Axew até encontrar um com `Mold Breaker`.
-    5.  **Evolução:** Fraxure (Nv. 38) -> Haxorus (Nv. 48).
-*   **Natureza Sugerida (PvE):** `Adamant` (Atk↑) ou `Jolly` (Speed↑). Ambas ótimas.
-*   **Moveset Sugerido (Storyline):**
-    1.  `Dragon Claw` (Nv. 32 - Consistente) ou `Outrage` (Nv. 66 - Poderoso, mas arriscado)
-    2.  `Dragon Dance` (Nv. 53 - Setup essencial Atk/Speed) ou `Swords Dance` (TM - Setup massivo de Atk)
-    3.  `Earthquake` (TM - Cobertura crucial, ignora Levitate com Mold Breaker!)
-    4.  `Brick Break` / `Superpower` (TMs - Cobertura Aço/Gelo)
-*   **EVs (Opcional):** `Atk` & `Speed`.
+*   **Função:** Setup sweeper físico finalizador com `Mold Breaker`.
+*   **Habilidade Ideal:** ✨ **`Mold Breaker`** (Ignora habilidades defensivas chave).
+*   **Como Conseguir:**
+    1.  **Pokémon Alvo:** Axew.
+    2.  **Pré-requisito:** **HM `Surf`**.
+    3.  **Local:** **Mistralton Cave**. Você DEVE usar `Surf` para navegar pela água dentro da caverna e alcançar as áreas mais profundas (como a Guidance Chamber) onde Axew aparece com mais frequência.
+    4.  **Ação CRÍTICA (A Caçada pela Habilidade):**
+        *   Explore as áreas acessíveis por Surf.
+        *   Encontre e capture **vários** Axew.
+        *   Verifique o Sumário de **cada um** para a Habilidade.
+        *   **Repita** até encontrar um com `Mold Breaker`.
+    5.  **Evolução:** Treine o Axew com `Mold Breaker` até o Nível 38 (Fraxure) e depois Nível 48 (Haxorus).
+*   **Natureza Sugerida:** `Adamant` (Atk↑) ou `Jolly` (Speed↑).
+*   **Moveset Sugerido (Geral):** `Dragon Dance`/`Swords Dance`, `Outrage`/`Dragon Claw`, `Earthquake`/`Close Combat`/`Superpower`, `Poison Jab`/`Iron Head`/`Rock Slide`.
+*   **EVs:** `Atk` & `Speed`.
 
 ---
 
-## 🗺️ Roteiro de Captura em Unova
-
-Siga esta ordem para montar seu time eficientemente:
+## 🗺️ Roteiro de Montagem em Unova
 
 1.  **(Início)** Escolha **Oshawott**.
 2.  **(Rota 4 / Desert Resort)** Após Ginásio 2 (Nacrene):
-    *   Capture **Sandile** (com `Moxie`!)
-    *   Capture **Darumaka**
-    *   Capture **Sigilyph** (com `Magic Guard`!)
+    *   Capture **Sandile** (`Moxie` ou `Intimidate`).
+    *   Capture **Darumaka**.
 3.  **(Chargestone Cave)** Antes do Ginásio 5 (Mistralton):
-    *   Capture **Joltik** (com `Compound Eyes`!)
-4.  **(Mistralton Cave)** Após obter HM `Surf` (Geralmente após Ginásio 6):
-    *   Capture **Axew** (com `Mold Breaker`!)
-5.  **(Progresso)** Treine, evolua (respeitando os Level Caps!) e otimize os movesets com TMs.
+    *   Capture **Ferroseed**.
+    *   Capture **Joltik** (`Compound Eyes`).
+4.  **(Mistralton Cave)** Após obter HM `Surf` (Pós Ginásio 6):
+    *   Capture **Axew** (`Mold Breaker`).
+5.  **(Progresso)** Treine, evolua (respeitando Level Caps!), e otimize movesets com TMs e Move Tutors (disponíveis mais tarde no jogo).
 
 ---
 
-## 🧭 Estratégia de HMs
+## 💰 Método de Farm Eficaz em Unova (Durante a Campanha)
 
-Seu time cobre os HMs essenciais sem precisar de um slot dedicado:
+Acumular Pokéyen é importante para TMs, itens e breeding. Aqui está um método confiável para farmar dinheiro enquanto você avança por Unova, utilizando Hordas e o item Amulet Coin:
 
-*   `Surf`: **Samurott** (STAB)
-*   `Waterfall`: **Samurott** (STAB)
-*   `Fly`: **Sigilyph** (STAB)
-*   `Strength`: **Krookodile**, **Darmanitan**, **Haxorus**
-*   `Cut`: **Samurott**, **Krookodile**, etc. (Use temporariamente se necessário)
+**Conceito:** Batalhas de Horda (5 Pokémon de uma vez) dão uma boa quantia de dinheiro base. Usar o item **Amulet Coin** dobra o dinheiro recebido por batalha, tornando as hordas muito lucrativas.
+
+**Pré-requisitos Essenciais:**
+
+1.  **Amulet Coin:**
+    *   **Localização:** Castelia City.
+    *   **Como Obter:** Entre no prédio à esquerda do Ginásio de Castelia. Fale com um homem de terno (dançarino) no andar térreo. Ele reunirá outros dançarinos e, após a cena, lhe dará o Amulet Coin.
+    *   **Uso:** Equipe este item no Pokémon que participará da batalha (idealmente seu atacante de hordas).
+2.  **Pokémon com `Sweet Scent`:**
+    *   **Função:** Usar `Sweet Scent` fora de batalha força um encontro de Horda instantaneamente (se houver hordas na área).
+    *   **Como Obter:** Capture um Pokémon que aprenda `Sweet Scent` naturalmente ou via Move Relearner. Boas opções em Unova:
+        *   **Foongus/Amoonguss:** Encontrado nas Rotas 6, 7, 10, 11, Village Bridge (procure por Pokébolas no chão que são Foongus disfarçados ou encontre na grama alta). Aprende Sweet Scent cedo (Nv. 8 como Foongus).
+        *   **Oddish/Gloom/Vileplume:** Menos comum em Unova, mas pode ser encontrado em Hordas na Rota 6 ou 7 (necessitaria de outro Sweet Scenter para começar).
+    *   **PP:** Sweet Scent tem PP limitado. Leppa Berries ou visitas ao Centro Pokémon serão necessárias.
+3.  **Pokémon com Ataque em Área (AoE - Area of Effect):**
+    *   **Função:** Derrotar todos os 5 Pokémon da horda de uma só vez rapidamente.
+    *   **Seu Time:**
+        *   **Krookodile:** `Earthquake` (Atinge todos exceto voadores/levitantes). Ótimo para hordas terrestres.
+        *   **Darmanitan:** `Rock Slide` (Atinge múltiplos oponentes). Bom contra hordas com voadores ou fracos a Pedra.
+    *   **Importante:** Seu atacante AoE deve ser forte o suficiente para nocautear a maioria dos Pokémon da horda em um golpe.
+
+**Local de Farm Recomendado (Meio da Campanha):**
+
+*   **Rota 5 (Grama perto da ponte para Driftveil City):**
+    *   **Hordas Comuns:** Minccino (Normal), Liepard (Sombrio), Gothita (Psíquico - Exclusivo White/White 2 engine), Solosis (Psíquico - Exclusivo Black/Black 2 engine).
+    *   **Vantagens:** Acessível relativamente cedo (após Nimbasa City). Hordas de Minccino e Liepard dão bom dinheiro base. Minccino pode dropar `Silk Scarf` (vende por um pouco). Perto de Nimbasa para curar.
+    *   **Atacante Ideal:** Krookodile com `Earthquake` (contra Minccino/Liepard) ou um ataque Sombrio/Inseto forte.
+
+**O Processo de Farm (Passo a Passo):**
+
+1.  **Prepare:** Equipe o **Amulet Coin** no seu Pokémon atacante AoE (ex: Krookodile). Certifique-se que seu Pokémon com `Sweet Scent` está no time. Tenha seu atacante AoE na liderança.
+2.  **Vá para o Local:** Posicione-se na grama da Rota 5.
+3.  **Inicie a Horda:** Use `Sweet Scent` a partir do menu do Pokémon.
+4.  **Ataque:** Assim que a batalha de horda começar, use seu ataque AoE (ex: `Earthquake` de Krookodile).
+5.  **Colete:** Derrote a horda. Você receberá o dinheiro dobrado pelo Amulet Coin.
+6.  **Recupere:** Quando o PP de `Sweet Scent` ou do ataque AoE acabar, use Leppa Berries ou volte ao Centro Pokémon de Nimbasa City para curar.
+7.  **Repita:** Continue o ciclo pelo tempo que desejar ou precisar.
+
+**Otimização Opcional (Pickup):**
+
+*   Se você tiver um Pokémon com a Habilidade `Pickup` no time (mesmo que não participe da batalha), há uma chance de ele encontrar itens aleatórios após as batalhas (Potions, Nuggets, TMs raros, etc.).
+*   **Boas Opções:** Stoutland (evolui de Lillipup, pego na Rota 1) ou Meowth (obtido via troca NPC em Unova, verifique guias online para localização exata da troca).
+*   **Nota:** Isso é um bônus. O foco principal do farm é o dinheiro do Amulet Coin + Hordas.
 
 ---
 
-## ✨ Dicas Adicionais Essenciais
+## 🧭 Gerenciamento de HMs
 
-*   **Level Caps:** Esteja ciente dos limites de nível por insígnia. Pokémon acima do limite não obedecerão.
-*   **Pokéyen:** Use o GTL (Global Trade Link) para vender itens valiosos farmados (ex: Everstones, itens de Hordas) ou Pokémon breedados quando precisar de dinheiro para TMs ou itens.
-*   **TMs:** Invista em TMs importantes vendidos nos Marts (Nimbasa, Lacunosa, Shopping R9) ou encontrados pelo mundo.
-*   **Itens:** Mantenha sempre um bom estoque de itens de cura e status.
-*   **Habilidades:** **Priorize encontrar a Habilidade correta** durante a captura. É mais impactante que Nature/IVs para a campanha inicial.
-*   **EV Training (Opcional):** Se quiser otimizar, foque em derrotar Pokémon que dão EVs de `Atk`/`Sp. Atk` e `Speed`.
+*   `Surf` / `Waterfall`: **Samurott** (STAB).
+*   `Strength`: **Krookodile**, **Darmanitan**, **Haxorus**.
+*   `Cut`: Temporário em um dos físicos, se necessário.
+*   `Fly`: **Ausente com STAB.** Você precisará:
+    *   Usar um HM Slave dedicado temporariamente quando precisar voar longas distâncias.
+    *   Ensinar Fly a um Pokémon que possa aprender (Haxorus, Krookodile - sem STAB). Para viagens rápidas dentro de uma cidade ou rota curta, pode ser aceitável.
 
 ---
 
-## ➡️ Próximos Passos: Outras Regiões
+## ✨ Considerações Cruciais (PvP & Otimização)
 
-A força deste time não se limita a Unova. Ao viajar para Kanto, Hoenn e Sinnoh, esta equipe continuará sendo uma base extremamente sólida e eficaz para enfrentar todos os desafios PvE que o PokeMMO oferece.
+Para levar este time ao seu potencial máximo, especialmente para PvP:
+
+*   **Natures:** Essenciais. `Adamant/Jolly` para físicos, `Timid/Modest` para especiais, e defensivas específicas para Ferrothorn são cruciais.
+*   **IVs (Individual Values):** Busque IVs altos (idealmente 31 ou perto disso) nos stats importantes de cada Pokémon (Atk/Speed, Sp.Atk/Speed, HP/Def/Sp.Def). Isso geralmente requer **Breeding**.
+*   **EVs (Effort Values):** Treinar EVs corretamente é fundamental para maximizar o desempenho. Use guias de EV training para focar nos stats corretos para cada membro.
+*   **Move Tutors:** Muitos golpes essenciais para PvP (Knock Off, Superpower, Stealth Rock, Close Combat, Iron Head, etc.) são aprendidos via Move Tutors, que custam Pokéyen ou Battle Points (BP).
+*   **Itens:** Itens competitivos (Choice Scarf/Band/Specs, Life Orb, Leftovers, Focus Sash) são vitais em PvP e podem ser caros ou exigir farm.
+*   **Breeding:** Para obter IVs perfeitos, Natures corretas e Egg Moves (como Aqua Jet, Pursuit), o sistema de Breeding do PokeMMO será necessário.
+
+---
+
+## ✅ Viabilidade Multi-Região
+
+Este time, especialmente com a adição de Ferrothorn, mantém uma performance excelente ao longo de Kanto, Hoenn e Sinnoh. Sua combinação de poder, defesa e utilidade estratégica é eficaz contra a maioria dos desafios PvE do jogo e fornece uma excelente base para construir times competitivos.
 
 ---
 
 <p align="center">
-  <strong>Boa sorte e divirta-se dominando o PokeMMO com este time poderoso e bem planejado!</strong> 🎉
+  <strong>Prepare-se para uma jornada dominante pelo PokeMMO com esta equipe versátil e poderosa! Boa sorte!</strong> 🚀
 </p>
