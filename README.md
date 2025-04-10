@@ -6,7 +6,7 @@
 <h2 align="center">Unova Start (Oshawott) | Domine Todas as Regiões (PvE) + Base Forte pro PvP! ⚔️</h2>
 
 <p align="center">
-  <em>E aí, treinador! 👊 Cansado de montar times que empacam? Se você começou sua jornada em <strong>Unova</strong> com o carismático <strong>Oshawott</strong> e sonha com uma equipe <strong>IMPLACÁVEL</strong> para zerar o PvE de todas as regiões e já ter um alicerce sólido pro PvP, você achou o mapa da mina! 🗺️ Sem enrolação, direto ao ponto, com os nomes PT-BR que usamos no game!</em>
+  <em>E aí, treinador! 👊 Cansado de montar times que empacam? Se você começou sua jornada em <strong>Unova</strong> com o carismático <strong>Oshawott</strong> e sonha com uma equipe <strong>IMPLACÁVEL</strong> para zerar o PvE de todas as regiões e já ter um alicerce sólido pro PvP, você achou o mapa da mina! 🗺️ Sem enrolação, direto ao ponto!</em>
 </p>
 
 ---
