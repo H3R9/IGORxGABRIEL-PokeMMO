@@ -25,6 +25,7 @@ Navegue facilmente pelas seções deste guia:
     *   [🕷️⚡ 5. Galvantula (Inseto / Elétrico)](#5-galvantula--inseto--elétrico)
     *   [🐉 6. Haxorus (Dragão)](#6-haxorus--dragão)
 4.  [🗺️ Roteiro Estratégico de Montagem em Unova](#️-roteiro-estratégico-de-montagem-em-unova)
+    *   [📍 Guia Visual no Mapa Numerado](#-guia-visual-no-mapa-numerado)
 5.  [💰 Farm Eficiente de Pokéyen em Unova (Método das Hordas)](#-farm-eficiente-de-pokéyen-em-unova-método-das-hordas)
 6.  [🧭 Gerenciamento Otimizado de HMs](#-gerenciamento-otimizado-de-hms)
 7.  [✨ Otimização Avançada: Preparação para o PvP](#-otimização-avançada-preparação-para-o-pvp)
@@ -83,11 +84,11 @@ Vamos ao recrutamento e preparação de cada membro da sua futura equipe vitorio
     1.  **Seleção Inicial:** Escolha `Oshawott` em Nuvema Town (Cidade de Nuvema).
     2.  **🧬 Evolução:** Progrida treinando: `Oshawott` → `Dewott` (Nv. 17) → `Samurott` (Nv. 36).
 *   **⭐ Natureza Recomendada:** Para campanha inicial, qualquer uma funciona. Para otimização: `Mild` (+Sp.Atk, -Def) / `Rash` (+Sp.Atk, -Sp.Def) para misto; `Adamant` (+Atk, -Sp.Atk) / `Jolly` (+Speed, -Sp.Atk) para físico; `Modest` (+Sp.Atk, -Atk) / `Timid` (+Speed, -Atk) para especial.
-*   **⚔️ Moveset Sugerido (PvE):**
+*   **⚔️ Moveset Sugerido (PvE/Fim de Jogo):**
     1.  `Surf` (Surfar) [HM] - STAB confiável e HM essencial.
     2.  `Ice Beam` (Raio de Gelo) [TM] - Cobertura contra Planta e Dragão.
     3.  `Grass Knot` (Nó de Grama) [TM] - Surpreende Pokémon pesados de Água/Terra/Pedra.
-    4.  `Waterfall` (Cachoeira) [HM] / `Hydro Pump` (Hidro Bomba) [TM] / `Aqua Jet` (Aqua Jato) [Egg Move - Prioridade útil] / `Megahorn` (Megachifre) [Move Relearner - Cobertura física].
+    4.  `Waterfall` (Cachoeira) [HM] / `Hydro Pump` (Hidro Bomba) [TM/Nv] / `Aqua Jet` (Aqua Jato) [Egg Move - Prioridade útil] / `Megahorn` (Megachifre) [Move Relearner - Cobertura física].
 *   **📈 Foco de EVs:** `Sp. Atk` & `Speed` OU `Atk` & `Speed`.
 
 ---
@@ -131,7 +132,7 @@ Vamos ao recrutamento e preparação de cada membro da sua futura equipe vitorio
     4.  **🧬 Evolução:** Treine `Darumaka` até o Nível 35. Ao evoluir para `Darmanitan`, ele **automaticamente** adquire `Sheer Force` (Força Bruta).
 *   **⭐ Natureza Recomendada:** `Adamant` (+Atk, -Sp.Atk) ou `Jolly` (+Speed, -Sp.Atk).
 *   **⚔️ Moveset Sugerido (PvP/Fim de Jogo):**
-    1.  `Flare Blitz` (Bombardeio de Chamas) [Nv. 39] - STAB principal, com dano massivo (ignora recuo com Sheer Force se tiver efeito secundário, mas Flare Blitz base não tem, então cuidado com o recuo).
+    1.  `Flare Blitz` (Bombardeio de Chamas) [Nv. 39] - STAB principal, com dano massivo (atenção ao recuo).
     2.  `U-turn` (Ida e Volta) [TM] - Momentum e scout tático.
     3.  `Rock Slide` (Deslize de Pedras) [TM] - Cobertura excelente, **potencializada por Sheer Force!**
     4.  `Superpower` (Superpotência) [Nv. 47] / `Earthquake` (Terremoto) [TM] - Cobertura adicional importante.
@@ -231,6 +232,26 @@ Siga estes passos para montar sua equipe de forma eficiente durante sua jornada 
 
 ---
 
+### 📍 Guia Visual no Mapa Numerado
+
+Este guia visual utiliza o mapa de Unova **numerado** fornecido para indicar a ordem e as localizações aproximadas onde você realizará as principais etapas de captura e ações mencionadas acima.
+
+![Mapa de Unova Numerado](https://raw.githubusercontent.com/H3R9/IGORxGABRIEL-PokeMMO/main/Map_Unova.png)
+*(**Imagem:** Mapa de Unova com pontos numerados de 1 a 14.)*
+
+**Interpretando o Roteiro no Mapa:**
+
+*   **Etapa 1 (Início):** Corresponde ao **Número 1** (Nuvema Town).
+*   **Etapa 2 (Caça Sandile/Darumaka):** Ocorre na **Rota 4 / Desert Resort**, localizada na ligação entre o **Número 5 (Castelia City)** e o **Número 6 (Nimbasa City)**. O acesso é liberado após Nacrene (próximo ao **Número 4**) e Castelia.
+*   **Etapa 3 (Amulet Coin):** Realizada na cidade do **Número 5 (Castelia City)**.
+*   **Etapa 4 (Caça Ferroseed/Joltik):** Acontece na **Chargestone Cave**, situada na rota entre o **Número 6 (Nimbasa City)** e o **Número 11 (Mistralton City)**.
+*   **Etapa 5 (Caça Axew):** Requer `Surf` (obtido em Mistralton, **Número 11**). A **Mistralton Cave** fica nas proximidades do **Número 11**.
+*   **Etapa 6 (Reta Final):** Engloba a progressão pelo restante do mapa, seguindo a sequência da história (locais como **11, 12, 13, 10, 9, 8, 14** e a Liga).
+
+**Observação:** Este mapa e os números são uma representação para facilitar a orientação geral. Lembre-se de explorar as rotas e cavernas completamente para encontrar todos os itens, treinadores e os Pokémon específicos que você busca!
+
+---
+
 ## 💰 Farm Eficiente de Pokéyen em Unova (Método das Hordas)
 
 Recursos financeiros são vitais no PokeMMO (TMs, itens, breeding). O método de farm de Hordas é um dos mais eficazes em Unova e outras regiões:
@@ -242,20 +263,21 @@ Recursos financeiros são vitais no PokeMMO (TMs, itens, breeding). O método de
 1.  **🪙 `Amulet Coin` (Moeda Amuleto):** Obtido em Castelia City. **Equipe-o** no Pokémon que derrotará as Hordas.
 2.  **🌸 Pokémon com `Sweet Scent` (Doce Aroma):**
     *   **Função:** Usar `Sweet Scent` fora de batalha força um encontro de Horda instantâneo (se disponível na área).
-    *   **Opções Acessíveis em Unova:** `Foongus` / `Amoonguss` (encontrados nas Rotas 6, 7, 10, 11, Village Bridge) são ótimas escolhas, aprendendo o movimento cedo.
+    *   **Opções Acessíveis em Unova:** `Foongus` / `Amoonguss` (encontrados nas Rotas 6, 7, 10, 11, Village Bridge) são ótimas escolhas, aprendendo o movimento cedo. Outros como `Oddish`/`Gloom` também servem.
     *   **Gestão de PP:** Tenha `Leppa Berry` (Fruta Leppa) ou planeje visitas ao Centro Pokémon para restaurar o PP de `Sweet Scent`.
 3.  **⚔️ Pokémon com Ataque em Área (AoE - Area of Effect):**
     *   **Função:** Derrotar todos os 5 Pokémon da horda com um único golpe para máxima eficiência.
     *   **Opções na Sua Equipe:**
         *   `Krookodile` com `Earthquake` (Terremoto) é excelente para muitas hordas terrestres ou neutras.
         *   `Darmanitan` com `Rock Slide` (Deslize de Pedras) pode ser eficaz contra certas composições de hordas.
+        *   Outros bons atacantes AoE incluem Pokémon com `Surf`, `Discharge`, `Heat Wave`, etc.
     *   **Observação:** O atacante deve ser forte o suficiente para nocautear (OHKO - One-Hit KO) a maioria dos membros da horda rapidamente.
 
 **🗺️ Local Recomendado para Farm (Meio de Jogo - Unova):**
 
-*   **📍 Route 5** (Rota 5) (Na grama após a ponte em direção a Driftveil City):
+*   **📍 Route 5** (Rota 5) (Na grama após a ponte em direção a Driftveil City - entre Nimbasa e Driftveil):
     *   **👾 Hordas Comuns:** `Minccino`, `Liepard`, `Gothita`/`Solosis` (dependendo da versão base).
-    *   **✅ Vantagens:** Acesso relativamente cedo (pós-Nimbasa), hordas com bom retorno financeiro, proximidade com Nimbasa para cura rápida.
+    *   **✅ Vantagens:** Acesso relativamente cedo (pós-Nimbasa), hordas com bom retorno financeiro, proximidade com Nimbasa ou Driftveil para cura rápida.
     *   **💥 Atacante Ideal:** `Krookodile` com `Earthquake` geralmente lida bem com as hordas desta rota.
 
 **🔄 O Ciclo de Farm:**
@@ -269,7 +291,7 @@ Recursos financeiros são vitais no PokeMMO (TMs, itens, breeding). O método de
 7.  **Repetição:** Continue o ciclo até alcançar seu objetivo financeiro.
 
 > **✨ Dica Bônus: Habilidade `Pickup` (Coleta)**
-> Incluir um Pokémon com a habilidade `Pickup` (como `Stoutland`, evolução do `Lillipup` da Rota 1) na equipe durante o farm pode gerar itens adicionais passivamente após as batalhas (Poções, Berries, ocasionalmente itens mais raros). Não é essencial, mas agrega valor!
+> Incluir um Pokémon com a habilidade `Pickup` (como `Linoone`, `Stoutland`, `Meowth`) na equipe durante o farm pode gerar itens adicionais passivamente após as batalhas (Poções, Berries, ocasionalmente itens mais raros). Não é essencial, mas agrega valor!
 
 ---
 
@@ -278,29 +300,29 @@ Recursos financeiros são vitais no PokeMMO (TMs, itens, breeding). O método de
 Minimize a dependência de um "HM Slave" dedicado distribuindo os HMs de forma inteligente:
 
 *   💧 **`Surf` (Surfar) / `Waterfall` (Cachoeira):** **`Samurott`** - Aprende ambos naturalmente e ainda se beneficia do STAB (Same-Type Attack Bonus). Escolha perfeita.
-*   💪 **`Strength` (Força):** **`Krookodile`**, **`Darmanitan`**, ou **`Haxorus`** - Qualquer um dos seus atacantes físicos robustos pode aprender este HM sem grande prejuízo.
-*   🌳 **`Cut` (Cortar):** Ensine temporariamente a um dos atacantes físicos **apenas quando estritamente necessário**. É um golpe fraco em batalha; substitua-o por um ataque mais útil assim que o obstáculo for superado.
+*   💪 **`Strength` (Força):** **`Krookodile`**, **`Darmanitan`**, ou **`Haxorus`** - Qualquer um dos seus atacantes físicos robustos pode aprender este HM sem grande prejuízo para o moveset de campanha.
+*   🌳 **`Cut` (Cortar):** Ensine temporariamente a um dos atacantes físicos **apenas quando estritamente necessário**. É um golpe fraco em batalha; substitua-o por um ataque mais útil assim que o obstáculo for superado, ou use um Pokémon temporário para isso.
 *   ✈️ **`Fly` (Voar):** Este é o principal "custo" de optar por `Ferrothorn` em vez de um Voador. Soluções práticas:
-    1.  **🎒 "Mochileiro" Voador Temporário:** Mantenha um Pokémon Voador simples (ex: `Pidove`/`Tranquill`/`Unfezant`) no PC ou na equipe exclusivamente para viagens longas entre regiões ou cidades distantes, quando necessário.
+    1.  **🎒 "Mochileiro" Voador Temporário:** Mantenha um Pokémon Voador simples (ex: `Pidove`/`Tranquill`/`Unfezant`, `Woobat`/`Swoobat`) no PC ou na equipe exclusivamente para viagens longas entre regiões ou cidades distantes, quando necessário.
     2.  **✈️ Quebra-Galho Não-STAB:** Ensine `Fly` a `Haxorus` ou `Krookodile` (ambos podem aprender). Eles não recebem STAB, tornando o golpe menos útil em combate, mas serve perfeitamente para deslocamentos rápidos dentro de uma região.
 
 ---
 
 ## ✨ Otimização Avançada: Preparação para o PvP
 
-Após conquistar as regiões no PvE, eleve sua equipe ao nível competitivo com estas otimizações:
+Após conquistar as regiões no PvE, eleve sua equipe ao nível competitivo com estas otimizações cruciais:
 
 *   **🧬 Genética Superior (IVs & Natures):**
-    *   **Natures (Naturezas):** Agora, tornam-se **ABSOLUTAMENTE CRÍTICAS**. Utilize um Pokémon com `Synchronize` (Sincronia) da Nature desejada na frente da equipe ao caçar selvagens ou invista em Breeding (Criação). `Adamant`/`Jolly` para atacantes físicos, `Timid`/`Modest` para especiais, e `Relaxed`/`Sassy`/`Impish`/`Careful` para `Ferrothorn` são mandatórios.
-    *   **IVs (Valores Individuais):** O objetivo é alcançar 31 IVs nos atributos mais importantes (ex: Atk/Speed para Haxorus, HP/Def/Sp.Def para Ferrothorn). Isso geralmente requer **Breeding estratégico**, utilizando itens como `Destiny Knot` (Nó do Destino) e os Itens de Poder (Bracelete, Lente, etc.). É um processo complexo, mas essencial para o PvP.
+    *   **Natures (Naturezas):** Tornam-se **ABSOLUTAMENTE CRÍTICAS**. Para maximizar o potencial, use um Pokémon com `Synchronize` (Sincronia) da Nature desejada na frente da equipe ao caçar selvagens ou, idealmente, invista em **Breeding (Criação)**. `Adamant`/`Jolly` para atacantes físicos, `Timid`/`Modest` para especiais, e `Relaxed`/`Sassy`/`Impish`/`Careful` para `Ferrothorn` são mandatórios.
+    *   **IVs (Valores Individuais):** O objetivo final é alcançar **31 IVs** nos atributos mais importantes (ex: Atk/Speed para Haxorus, HP/Def/Sp.Def para Ferrothorn). Isso quase sempre requer **Breeding estratégico e planejado**, utilizando itens como `Destiny Knot` (Nó do Destino) e os Itens de Poder (`Power Weight`, `Power Bracer`, etc.). É um processo complexo, mas essencial para competir em alto nível.
 *   **📊 Treinamento de EVs (Valores de Esforço) Preciso:**
-    *   O treinamento de EVs é **OBRIGATÓRIO** no cenário competitivo. Maximize os atributos corretos para cada Pokémon (geralmente 252 em dois atributos e 4 em outro). Exemplo: 252 Atk / 252 Speed / 4 HP para `Haxorus`. Utilize hordas específicas que concedem os EVs desejados ou itens como Vitaminas e Penas para acelerar. Pesquise guias de EV Training específicos para PokeMMO.
+    *   O treinamento de EVs direcionado é **OBRIGATÓRIO** no cenário competitivo. Maximize os atributos corretos para a função de cada Pokémon (geralmente 252 em dois atributos e 4 em outro). Exemplo: 252 Atk / 252 Speed / 4 HP para `Haxorus`. Utilize hordas específicas que concedem os EVs desejados (pesquise guias de hordas para EV training) ou itens como Vitaminas (`Protein`, `Carbos`, etc.) e Penas (`Muscle Feather`, `Swift Feather`, etc.) para acelerar.
 *   **🎓 Acesso a Movimentos Cruciais (Move Tutors & TMs):**
-    *   Muitos dos movimentos **chave** do PvP (`Knock Off`, `Superpower`, `Stealth Rock`, `Iron Head`, `Heat Wave`, `Draco Meteor`, etc.) são obtidos através de Move Tutors, que exigem Pokéyen ou Battle Points (BP - Pontos de Batalha, ganhos em locais como a Battle Frontier). Adquirir TMs essenciais (`Earthquake`, `Ice Beam`, `Thunderbolt`, `U-turn`) também é vital.
+    *   Muitos dos movimentos **chave** do PvP (`Knock Off`, `Superpower`, `Stealth Rock`, `Iron Head`, `Heat Wave`, `Draco Meteor`, `Close Combat` etc.) são obtidos através de **Move Tutors**, que exigem Pokéyen ou Battle Points (BP - Pontos de Batalha, ganhos em locais como a Battle Frontier/Tower/Subway). Adquirir TMs essenciais (`Earthquake`, `Ice Beam`, `Thunderbolt`, `U-turn`) também é vital e pode exigir farm de BP ou compra no GTL (Global Trade Link).
 *   **⚔️ Itens Competitivos Estratégicos:**
-    *   O item equipado pode definir o resultado de uma batalha. Itens como `Choice Scarf` (Cachecol Escolha), `Choice Band` (Faixa Escolha), `Choice Specs` (Óculos Escolha), `Life Orb` (Orbe da Vida), `Leftovers` (Restos), `Focus Sash` (Faixa de Foco), `Rocky Helmet` (Capacete de Pedra) são caros ou exigem farm/BP, mas são indispensáveis no alto nível.
+    *   O item equipado pode definir o resultado de uma batalha. Itens como `Choice Scarf` (Cachecol Escolha), `Choice Band` (Faixa Escolha), `Choice Specs` (Óculos Escolha), `Life Orb` (Orbe da Vida), `Leftovers` (Restos), `Focus Sash` (Faixa de Foco), `Rocky Helmet` (Capacete de Pedra), `Eviolite` (para Pokémon não totalmente evoluídos, se aplicável) são caros ou exigem farm/BP/compra no GTL, mas são indispensáveis no alto nível.
 *   **🥚 Breeding Avançado para Egg Moves (Movimentos de Ovo):**
-    *   Além de IVs/Natures, o Breeding é o método para obter Egg Moves cruciais que um Pokémon não aprende de outra forma. Exemplos relevantes: `Aqua Jet` em `Samurott`, `Pursuit` em `Krookodile`. Note que alguns Egg Moves, como `Stealth Rock` ou `Leech Seed` em `Ferrothorn`, também podem ser acessados via Tutor ou Nível, respectivamente, mas o Breeding pode ser necessário para combinar múltiplos Egg Moves ou obter IVs/Nature corretos simultaneamente.
+    *   Além de IVs/Natures, o Breeding é o método principal (e às vezes único) para obter **Egg Moves** cruciais que um Pokémon não aprende de outra forma. Exemplos relevantes: `Aqua Jet` em `Samurott`, `Pursuit` em `Krookodile`. Note que alguns Egg Moves, como `Stealth Rock` ou `Leech Seed` em `Ferrothorn`, também podem ser acessados via Tutor ou Nível, respectivamente, mas o Breeding pode ser necessário para combinar múltiplos Egg Moves ou obter IVs/Nature corretos simultaneamente. Planejar cadeias de breeding é fundamental.
 
 ---
 
@@ -308,65 +330,23 @@ Após conquistar as regiões no PvE, eleve sua equipe ao nível competitivo com 
 
 ✅ **Com Certeza Absoluta!**
 
-A força central desta equipe reside na sua combinação robusta:
+A força central desta equipe reside na sua combinação robusta e sinérgica:
 *   Poder ofensivo massivo (`Krookodile`, `Darmanitan`, `Haxorus`).
-*   Versatilidade e cobertura de HMs (`Samurott`).
+*   Versatilidade, cobertura de HMs e presença mista (`Samurott`).
 *   Velocidade, precisão especial e/ou controle tático (`Galvantula`).
-*   Uma espinha dorsal defensiva formidável (`Ferrothorn`).
+*   Uma espinha dorsal defensiva formidável e controle de hazards (`Ferrothorn`).
 
-Essa estrutura é **extremamente eficaz em todas as regiões disponíveis no PokeMMO (Kanto, Hoenn, Sinnoh, Unova)** para completar as campanhas principais (PvE). Você terá uma cobertura de tipos sólida, capacidade de enfrentar diversas ameaças e uma estrutura que se adapta bem aos desafios únicos de cada conjunto de Ginásios e Elites dos Quatro. É, sem dúvida, uma base poderosa e confiável para explorar todo o conteúdo do jogo e, subsequentemente, mergulhar com força no cenário PvP.
+Essa estrutura é **extremamente eficaz em todas as regiões disponíveis no PokeMMO (Kanto, Hoenn, Sinnoh, Unova)** para completar as campanhas principais (PvE). Você terá uma cobertura de tipos sólida, capacidade de enfrentar diversas ameaças e uma estrutura que se adapta bem aos desafios únicos de cada conjunto de Ginásios e Elites dos Quatro. É, sem dúvida, uma base poderosa e confiável para explorar todo o conteúdo do jogo e, subsequentemente, mergulhar com força no cenário PvP após as devidas otimizações.
 
 ---
 
 ## 🙏 Créditos
 
-*   **Conteúdo Original e Estratégia:** IgorGabrielz
+*   **Conteúdo Original, Estratégia e Mapa Numerado:** IgorGabrielz
 *   **Refinamento, Formatação e Aprimoramento do Texto:** Seu Assistente de IA
 
 ---
 
 <p align="center">
-  <strong>Tudo pronto, Treinador(a)! 🚀 Com este guia aprimorado, você possui o mapa completo para forjar uma equipe lendária em PokeMMO. Avance, capture esses monstros e mostre sua força! Desejamos uma jornada incrível e muito sucesso!</strong> 💪
+  <strong>Tudo pronto, Treinador(a)! 🚀 Com este guia consolidado e aprimorado, você possui o mapa completo para forjar uma equipe lendária em PokeMMO. Avance, capture esses monstros e mostre sua força! Desejamos uma jornada incrível e muito sucesso!</strong> 💪
 </p>
-
-
-# 🗺️ Guia Visual do Roteiro de Montagem em Unova (PokeMMO) - Mapa Numerado
-
-Este guia visual utiliza o mapa de Unova **numerado** fornecido para indicar a ordem e as localizações aproximadas onde você realizará as principais etapas de captura e ações mencionadas no **Roteiro Estratégico de Montagem em Unova** do guia principal da equipe.
-
-![Mapa de Unova Numerado](https://raw.githubusercontent.com/H3R9/IGORxGABRIEL-PokeMMO/main/Map_Unova.png)
-*(**Imagem:** Mapa de Unova com pontos numerados de 1 a 14, fornecido pelo usuário.)*
-
----
-
-## 📍 Roteiro Visualizado no Mapa Numerado:
-
-Siga os números no mapa conforme as etapas do roteiro:
-
-1.  **INÍCIO (Nuvema Town):**
-    *   **Ação:** Pegar seu `Oshawott`.
-    *   **Localização no Mapa:** Corresponde ao **Número 1** (Cidade inicial, no extremo sul/sudeste).
-
-2.  **PRIMEIRA CAÇADA (Route 4 / Desert Resort):**
-    *   **Ação:** Após o Ginásio 2 (Nacrene - Próximo ao Número 4, na rota entre 4 e 5), obter acesso e **caçar `Sandile` (Habilidade Certa!) e `Darumaka`**.
-    *   **Localização no Mapa:** A área principal para esta caçada é a **Rota 4 e o Resort do Deserto**. Esta zona fica na rota que liga a **Número 5 (Castelia City)** à **Número 6 (Nimbasa City)**. Você acessará essa área após passar por Castelia.
-
-3.  **ITEM CHAVE (Castelia City):**
-    *   **Ação:** Após o Ginásio 3 (Castelia), obter o `Amulet Coin` (Moeda Amuleto).
-    *   **Localização no Mapa:** Ocorre na grande cidade portuária, representada pelo **Número 5 (Castelia City)**.
-
-4.  **SEGUNDA CAÇADA (Chargestone Cave):**
-    *   **Ação:** Na rota entre Nimbasa (Ginásio 4 - Número 6) e Mistralton (Ginásio 5 - Número 11), explorar a caverna e **caçar `Ferroseed` e `Joltik` (`Compound Eyes`!)**.
-    *   **Localização no Mapa:** A Chargestone Cave está localizada ao longo da rota que conecta o **Número 6 (Nimbasa City)** ao **Número 11 (Mistralton City)**.
-
-5.  **CAÇADA FINAL (Mistralton Cave):**
-    *   **Ação:** Após o Ginásio 6 (Mistralton - Número 11), obter o HM `Surf`. Usar o Surf dentro da Mistralton Cave para **caçar `Axew` (`Mold Breaker`!)**.
-    *   **Localização no Mapa:** O Ginásio 6 fica na cidade representada pelo **Número 11 (Mistralton City)**. A Mistralton Cave está localizada nas **proximidades do Número 11**. Você precisará explorar a área ao redor de Mistralton City para encontrá-la após obter o Surf.
-
-6.  **RETA FINAL:**
-    *   **Ação:** Treinar a equipe, evoluir os Pokémon e buscar TMs/Move Tutors.
-    *   **Localização no Mapa:** Esta etapa ocorre enquanto você progride pelo restante da região, seguindo a ordem numérica sugerida pela história (passando por locais como **11, 12, 13, 10, 9, 8, 14** e eventualmente a Liga Pokémon).
-
----
-
-**Observação:** Este mapa e os números são uma representação para facilitar a orientação geral. Lembre-se de explorar as rotas e cavernas completamente para encontrar todos os itens, treinadores e os Pokémon específicos que você busca! Boa jornada!
