@@ -334,7 +334,7 @@ Essa estrutura é **extremamente eficaz em todas as regiões disponíveis no Pok
 
 Este guia visual utiliza o mapa de Unova **numerado** fornecido para indicar a ordem e as localizações aproximadas onde você realizará as principais etapas de captura e ações mencionadas no **Roteiro Estratégico de Montagem em Unova** do guia principal da equipe.
 
-![Mapa de Unova Numerado](https://user-images.githubusercontent.com/123456789/987654321-fedcbaZYXWV.png) <!-- Substitua este URL pelo URL real da sua imagem numerada -->
+(https://github.com/H3R9/IGORxGABRIEL-PokeMMO/blob/4b096ca083c331984aab667338c6c903927d5a8c/Map_Unova.png)
 *(**Imagem:** Mapa de Unova com pontos numerados de 1 a 14, fornecido pelo usuário.)*
 
 ---
