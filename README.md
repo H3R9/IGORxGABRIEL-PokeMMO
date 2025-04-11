@@ -334,7 +334,7 @@ Essa estrutura é **extremamente eficaz em todas as regiões disponíveis no Pok
 
 Este guia visual utiliza o mapa de Unova **numerado** fornecido para indicar a ordem e as localizações aproximadas onde você realizará as principais etapas de captura e ações mencionadas no **Roteiro Estratégico de Montagem em Unova** do guia principal da equipe.
 
-(https://github.com/H3R9/IGORxGABRIEL-PokeMMO/blob/4b096ca083c331984aab667338c6c903927d5a8c/Map_Unova.png)
+![Mapa de Unova Numerado](https://raw.githubusercontent.com/H3R9/IGORxGABRIEL-PokeMMO/main/Map_Unova.png)
 *(**Imagem:** Mapa de Unova com pontos numerados de 1 a 14, fornecido pelo usuário.)*
 
 ---
@@ -348,7 +348,7 @@ Siga os números no mapa conforme as etapas do roteiro:
     *   **Localização no Mapa:** Corresponde ao **Número 1** (Cidade inicial, no extremo sul/sudeste).
 
 2.  **PRIMEIRA CAÇADA (Route 4 / Desert Resort):**
-    *   **Ação:** Após o Ginásio 2 (Nacrene - Número 4), obter acesso e **caçar `Sandile` (Habilidade Certa!) e `Darumaka`**.
+    *   **Ação:** Após o Ginásio 2 (Nacrene - Próximo ao Número 4, na rota entre 4 e 5), obter acesso e **caçar `Sandile` (Habilidade Certa!) e `Darumaka`**.
     *   **Localização no Mapa:** A área principal para esta caçada é a **Rota 4 e o Resort do Deserto**. Esta zona fica na rota que liga a **Número 5 (Castelia City)** à **Número 6 (Nimbasa City)**. Você acessará essa área após passar por Castelia.
 
 3.  **ITEM CHAVE (Castelia City):**
