@@ -328,3 +328,45 @@ Essa estrutura é **extremamente eficaz em todas as regiões disponíveis no Pok
 <p align="center">
   <strong>Tudo pronto, Treinador(a)! 🚀 Com este guia aprimorado, você possui o mapa completo para forjar uma equipe lendária em PokeMMO. Avance, capture esses monstros e mostre sua força! Desejamos uma jornada incrível e muito sucesso!</strong> 💪
 </p>
+
+
+# 🗺️ Guia Visual do Roteiro de Montagem em Unova (PokeMMO) - Mapa Numerado
+
+Este guia visual utiliza o mapa de Unova **numerado** fornecido para indicar a ordem e as localizações aproximadas onde você realizará as principais etapas de captura e ações mencionadas no **Roteiro Estratégico de Montagem em Unova** do guia principal da equipe.
+
+![Mapa de Unova Numerado](https://user-images.githubusercontent.com/123456789/987654321-fedcbaZYXWV.png) <!-- Substitua este URL pelo URL real da sua imagem numerada -->
+*(**Imagem:** Mapa de Unova com pontos numerados de 1 a 14, fornecido pelo usuário.)*
+
+---
+
+## 📍 Roteiro Visualizado no Mapa Numerado:
+
+Siga os números no mapa conforme as etapas do roteiro:
+
+1.  **INÍCIO (Nuvema Town):**
+    *   **Ação:** Pegar seu `Oshawott`.
+    *   **Localização no Mapa:** Corresponde ao **Número 1** (Cidade inicial, no extremo sul/sudeste).
+
+2.  **PRIMEIRA CAÇADA (Route 4 / Desert Resort):**
+    *   **Ação:** Após o Ginásio 2 (Nacrene - Número 4), obter acesso e **caçar `Sandile` (Habilidade Certa!) e `Darumaka`**.
+    *   **Localização no Mapa:** A área principal para esta caçada é a **Rota 4 e o Resort do Deserto**. Esta zona fica na rota que liga a **Número 5 (Castelia City)** à **Número 6 (Nimbasa City)**. Você acessará essa área após passar por Castelia.
+
+3.  **ITEM CHAVE (Castelia City):**
+    *   **Ação:** Após o Ginásio 3 (Castelia), obter o `Amulet Coin` (Moeda Amuleto).
+    *   **Localização no Mapa:** Ocorre na grande cidade portuária, representada pelo **Número 5 (Castelia City)**.
+
+4.  **SEGUNDA CAÇADA (Chargestone Cave):**
+    *   **Ação:** Na rota entre Nimbasa (Ginásio 4 - Número 6) e Mistralton (Ginásio 5 - Número 11), explorar a caverna e **caçar `Ferroseed` e `Joltik` (`Compound Eyes`!)**.
+    *   **Localização no Mapa:** A Chargestone Cave está localizada ao longo da rota que conecta o **Número 6 (Nimbasa City)** ao **Número 11 (Mistralton City)**.
+
+5.  **CAÇADA FINAL (Mistralton Cave):**
+    *   **Ação:** Após o Ginásio 6 (Mistralton - Número 11), obter o HM `Surf`. Usar o Surf dentro da Mistralton Cave para **caçar `Axew` (`Mold Breaker`!)**.
+    *   **Localização no Mapa:** O Ginásio 6 fica na cidade representada pelo **Número 11 (Mistralton City)**. A Mistralton Cave está localizada nas **proximidades do Número 11**. Você precisará explorar a área ao redor de Mistralton City para encontrá-la após obter o Surf.
+
+6.  **RETA FINAL:**
+    *   **Ação:** Treinar a equipe, evoluir os Pokémon e buscar TMs/Move Tutors.
+    *   **Localização no Mapa:** Esta etapa ocorre enquanto você progride pelo restante da região, seguindo a ordem numérica sugerida pela história (passando por locais como **11, 12, 13, 10, 9, 8, 14** e eventualmente a Liga Pokémon).
+
+---
+
+**Observação:** Este mapa e os números são uma representação para facilitar a orientação geral. Lembre-se de explorar as rotas e cavernas completamente para encontrar todos os itens, treinadores e os Pokémon específicos que você busca! Boa jornada!
